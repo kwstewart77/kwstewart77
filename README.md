@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kwstewart77
+- 👋 Hi, I’m Kevin Stewart @kwstewart77
 - 👀 I’m interested in data science and machine learning 
 - 🌱 I’m currently learning studying my master's at the University of San Diego
 - 💞️ I’m looking to collaborate on various projects from kaggle.
